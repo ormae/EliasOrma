@@ -1,0 +1,3 @@
+Peli on normaali helppotasoinen pasianssi. 
+Pelaajan tavoitteena on saada kaikki kortit kerättyä alimpiin 4 eri pakkaan(Kukin eri maata).
+Pelin voittaa kun kaikki kortit on saatu asetettua alimpiin pakkoihin.
