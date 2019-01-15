@@ -1,1 +1,1 @@
-This is Elias Örmäs projectrepository that includes school- and self implemented projects
+This is Elias Örmä's projectrepository that includes school- and self implemented projects
