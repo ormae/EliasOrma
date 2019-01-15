@@ -1,0 +1,10 @@
+Pikachu;Electric;Thundershock,50,Electric;Nuzzle,10,Electric
+Gyarados;Water,Flying;Splash,0,Normal
+Mew;Psychic;Pound,40,Normal;Earthquake,100,Ground
+Rattata;Normal;Quick Attack,40,Normal
+Pidgeot;Normal,Flying
+Caterpie;Bug
+Magby;Fire
+Gengar;Ghost,Poison
+Ditto;Normal
+Vivillon;Bug,Flying
