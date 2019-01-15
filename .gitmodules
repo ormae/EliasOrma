@@ -1,0 +1,3 @@
+[submodule "schoolprojects/C++/UppoavaMaailma/GameLogic"]
+	path = schoolprojects/C++/UppoavaMaailma/GameLogic
+	url = https://course-gitlab.tut.fi/ohj3-2018-2019/GameLogic.git
